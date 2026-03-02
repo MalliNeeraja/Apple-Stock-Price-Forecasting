@@ -300,7 +300,7 @@ Apple-Stock-Forecasting/
 # 👨‍💻 Author
 
 **Neeraja Malli**  
-Machine Learning & Data Science Enthusiast  
+Machine Learning | Aspiring Data Scientist | Time Series Enthusiast
 
 ---
 
