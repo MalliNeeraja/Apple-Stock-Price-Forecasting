@@ -299,7 +299,7 @@ Apple-Stock-Forecasting/
 
 # 👨‍💻 Author
 
-**Praveen Poluri**  
+**Neeraja Malli**  
 Machine Learning & Data Science Enthusiast  
 
 ---
