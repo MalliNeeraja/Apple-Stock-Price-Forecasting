@@ -5,7 +5,7 @@
 
 ## 🚀 Live Project Overview
 
-This project builds a **statistical time series forecasting system** to predict future stock prices of Apple Inc. (AAPL) using the **SARIMA model**, and deploys it via an interactive **Streamlit web application**.
+This project develops a time series forecasting model using SARIMA to predict Apple (AAPL) stock prices and deploys the trained model through an interactive Streamlit web application.
 
 It demonstrates:
 
